@@ -1,0 +1,1 @@
+export default "这是ts引入的文件内容"

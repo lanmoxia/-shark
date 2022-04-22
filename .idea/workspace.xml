@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46f3cd9f-b6be-4a91-85b0-58cb53214f43" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/xxx/a.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yyy/b.scss" afterDir="false" />
+    <list default="true" id="46f3cd9f-b6be-4a91-85b0-58cb53214f43" name="变更" comment="scss文件引入: @import &quot;目录/文件&quot; 不需要@">
+      <change afterPath="$PROJECT_DIR$/src/xxx/x.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yyy/y.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yyy/b.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/yyy/b.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650579523241</updated>
       <workItem from="1650579524328" duration="913000" />
-      <workItem from="1650614270345" duration="6057000" />
+      <workItem from="1650614270345" duration="7191000" />
     </task>
     <task id="LOCAL-00001" summary="使用 dart-sass: yarn add node-sass@npm:dart-sass">
       <created>1650623598212</created>
@@ -74,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650623598212</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="scss文件引入: @import &quot;目录/文件&quot; 不需要@">
+      <created>1650625028047</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650625028047</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="使用 dart-sass: yarn add node-sass@npm:dart-sass" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用 dart-sass: yarn add node-sass@npm:dart-sass" />
+    <MESSAGE value="scss文件引入: @import &quot;目录/文件&quot; 不需要@" />
+    <option name="LAST_COMMIT_MESSAGE" value="scss文件引入: @import &quot;目录/文件&quot; 不需要@" />
   </component>
 </project>
