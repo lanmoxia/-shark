@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
-import styled from 'styled-components';
+import Button from './components/Button';
+import Box from './components/Box';
 
-const Button = styled.button`
-  color: red;
-`;
 
 function App() {
   return (
     <div>
       <Button>嗨</Button>
+      <hr/>
+      <Box/>
     </div>
   );
 }
